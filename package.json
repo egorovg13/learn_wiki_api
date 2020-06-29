@@ -1,0 +1,36 @@
+{
+  "name": "wikiapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorovg13/learn_wiki_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorovg13/learn_wiki_api/issues"
+  },
+  "homepage": "https://github.com/egorovg13/learn_wiki_api#readme",
+  "dependencies": {
+    "eventsource": "^1.0.7",
+    "express": "^4.17.1",
+    "jshint": "^2.11.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
