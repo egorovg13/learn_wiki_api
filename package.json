@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/egorovg13/learn_wiki_api#readme",
   "dependencies": {
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "express": "^4.17.1",
     "jshint": "^2.11.1",
     "nodemon": "^2.0.4",
